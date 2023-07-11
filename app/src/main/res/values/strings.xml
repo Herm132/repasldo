@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Detector de Cubetas de Huevos</string>
+    <string name="configuration">CONFIGURACIÓN</string>
+    <string name="history">HISTORIAL</string>
+    <string name="start">INICIAR</string>
+    <string name="size">Tamaño</string>
+    <string name="price">Precio</string>
+    <string name="priceT">Precio($)</string>
+    <string name="total">Total</string>
+    <string name="totalT">Total($)</string>
+    <string name="scan">Escanear</string>
+    <string name="stature">Talla</string>
+    <string name="weight">Peso(g)</string>
+    <string name="save">Guardar</string>
+    <string name="reset">Restablecer</string>
+    <string name="_53"><![CDATA[< 53]]></string>
+    <string name="_73"><![CDATA[>73]]></string>
+    <string name="date">Fecha</string>
+    <string name="quantity">Cantidad</string>
+    <string name="cantidadCubetas">N° Cubetas</string>
+</resources>
